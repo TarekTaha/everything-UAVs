@@ -1,37 +1,51 @@
 # UAVs
 A public repository that contains all information related to Unmanned Aerial Vehicles (UAVs) also known as drones
 
-# UAV Types
-## Multi-rotors
-## Fixed-wings
-## V-TOLs
-## Tail-sitters
+## Table of Contents
 
-# UAV Components
-## Actuation
-## Sensing
-## Control
-## Communication
+- [UAV Types](#UAV-types)
+  - [Multi-rotors](#multi-rotors)
+  - [Fixed-Wings](#fixed-wings)
+  - [VTOLs](#vtols)
+- [UAV Components](#uav-components)
+  - [Actuation](#actuation)
+  - [Sensjng](#sensing)
+  - [Control](#control)
+  - [Communication](#communication)
+- [UAV Software](uav-software)
+  - [Flight Controllers]
 
-# UAV Software
-## Flight Controllers
-## Ground Stations
-## UTM Systems / Fleet Management
+## UAV Types
+### Multi-rotors
+### Fixed-Wings
+### VTOLs
+### Tail-sitters
+
+## UAV Components
+### Actuation
+### Sensing
+### Control
+### Communication
+
+## UAV Software
+### Flight Controllers
+### Ground Stations
+### UTM Systems / Fleet Management
 ## Autonomous Mission Control
-## Appliction Orineted Software
+### Appliction Orineted Software
 
-# UAV Regulations
-## European Regulations
-## USA Regulations
-## Safety Aspects
+## UAV Regulations
+### European Regulations
+### USA Regulations
+### Safety Aspects
 
-# Counter UAV
-## Detection
-## Tracking
-## Neutralization
-## Swarm Threats
-## Military Systems
+## Counter UAV
+### Detection
+### Tracking
+### Neutralization
+### Swarm Threats
+### Military Systems
 
-#Cutting-edge Research
+## Cutting-edge Research
 
-#References and Books
+## References and Books
