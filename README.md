@@ -12,8 +12,8 @@ A public repository that contains all information related to Unmanned Aerial Veh
   - [Sensjng](#sensing)
   - [Control](#control)
   - [Communication](#communication)
-- [UAV Software](uav-software)
-  - [Flight Controllers]
+- [UAV Software](#uav-software)
+  - [Flight Controllers](#flight-controllers)
 
 ## UAV Types
 ### Multi-rotors
